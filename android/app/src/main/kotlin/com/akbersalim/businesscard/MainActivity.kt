@@ -1,0 +1,6 @@
+package com.akbersalim.businesscard
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
